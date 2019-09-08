@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: flot
 - type: document
   path: banan
   label: Fis
-  read_only: false
 - type: heading
   label: test
 upload_dir: static/uploads
