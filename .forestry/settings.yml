@@ -7,7 +7,7 @@ sections:
 - type: document
   path: banan
   label: Fis
-  match: "**/*"
+  read_only: false
 - type: heading
   label: test
 upload_dir: static/uploads
